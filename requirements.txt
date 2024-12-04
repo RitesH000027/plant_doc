@@ -4,9 +4,12 @@ torch==2.0.1+cpu
 torchvision
 numpy
 matplotlib
-flask==2.0.0
 seaborn
 gunicorn
 flask-cors
 pyfcm
 python-decouple
+flask>=2.2.0
+werkzeug==2.0.3
+gunicorn
+
