@@ -9,7 +9,7 @@ gunicorn
 flask-cors
 pyfcm
 python-decouple
-flask>=2.2.0
-werkzeug==2.0.3
+flask>=2.3.3
+werkzeug>=2.3.7
 gunicorn
 
